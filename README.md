@@ -1,2 +1,2 @@
 # BetaDiversityAtlanticForest
-This repository comprises all the data set manipulations and analyses required to assess the local and species contribution to variation in beta diversity for three important animal groups (fruit-feeding butterflies, mammals, and amphibians) across their distributions in the Atlantic Forest
+this repository contains the scripts for performing analyses of joint species distribution models (JSDM) and for accessing local and species contributions to a dataset of fruit-feeding butterflies in the Atlantic Forest.
